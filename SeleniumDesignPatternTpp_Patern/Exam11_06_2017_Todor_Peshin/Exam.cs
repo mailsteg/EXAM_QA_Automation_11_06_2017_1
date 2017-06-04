@@ -27,7 +27,7 @@ namespace Exam11_06_2017_Todor_Peshin
 
             var screenshot = ((ITakesScreenshot)driver).GetScreenshot();
             screenshot.SaveAsFile($"test.jpg", ScreenshotImageFormat.Jpeg);
-            driver.Close();
+           // driver.Close();
         }
     }
 }
