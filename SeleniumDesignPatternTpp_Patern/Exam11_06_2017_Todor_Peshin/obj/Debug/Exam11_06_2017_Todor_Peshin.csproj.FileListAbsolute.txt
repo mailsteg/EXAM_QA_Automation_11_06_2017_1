@@ -1,0 +1,10 @@
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\obj\Debug\Exam11_06_2017_Todor_Peshin.csprojResolveAssemblyReference.cache
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\Exam11_06_2017_Todor_Peshin.exe.config
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\Exam11_06_2017_Todor_Peshin.exe
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\Exam11_06_2017_Todor_Peshin.pdb
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\WebDriver.dll
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\WebDriver.Support.dll
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\WebDriver.xml
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\bin\Debug\WebDriver.Support.xml
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\obj\Debug\Exam11_06_2017_Todor_Peshin.exe
+E:\Todor\Softuni\Projects\SeleniumDesignPatternTpp_Patern\Exam11_06_2017_Todor_Peshin\obj\Debug\Exam11_06_2017_Todor_Peshin.pdb
